@@ -19,5 +19,5 @@ We have added:
 - Hazards for the player that lower health.
 
 Links to Video Showcases:
-- Video showcase of game:
+- Video showcase of game: https://youtu.be/tqNM9Qk2ta0
 - Video showcase of blueprints: https://youtu.be/UlvhEsKx_zg
