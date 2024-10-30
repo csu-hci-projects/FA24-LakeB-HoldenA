@@ -4,7 +4,7 @@
 ## HW1
 This project was created for CS310H, Fall 2024.
 
-To play, simply launch the 'Homework1_HoldenLake.uproject' file, load the MainMenu level to start.
+To play, simply launch the 'Homework1_HoldenLake' shortcut within the folder, or launch Homework1_HoldenLake.uproject and load the MainMenu level to start.
 
 For this part of the project, Brayden Lake coded all the blueprints and levels while Alex created the models and level-design.
 
