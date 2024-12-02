@@ -1,0 +1,181 @@
+[+] Containers:
+ |- [+] Container: /Game/MyContent/MyLevels/Level_2
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:07A343DA438D76C54B5C3AB9F03935B9 BaseClass:/Game/MyContent/MyBlueprints/Hazards.Hazards_C NativeClass:/Script/Engine.Actor Name:Hazards_C_UAID_FC3497A44668352902_1764529121 Label:Hazards SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=613.159 Y=113.173 Z=-0.000), Max=(X=1223.346 Y=786.213 Z=6.837) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1223247149A1F013B5C569ABB1CC2651 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:19B7C39B474EC8C1808B51A190B80994 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0068EB5D041A742902_1590661208 Label:Booth_Booth SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1500.000 Y=1610.000 Z=0.000), Max=(X=1500.000 Y=1610.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:1F03ECC640A8270A2DFE3883539BE22A BaseClass:/Game/MyContent/MyBlueprints/AmmoPickup.AmmoPickup_C NativeClass:/Script/Engine.Actor Name:AmmoPickup_C_UAID_FC3497A446686F2A02_1870121392 Label:AmmoPickup3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=763.874 Y=1422.485 Z=-19.150), Max=(X=888.892 Y=1511.677 Z=121.882) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2D770665499E1F48EE8FD8AF069681DD BaseClass:/Game/MyContent/MyBlueprints/Hazards.Hazards_C NativeClass:/Script/Engine.Actor Name:Hazards_C_UAID_FC3497A44668702A02_1422127578 Label:Hazards6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1214.465 Y=870.407 Z=135.000), Max=(X=1403.462 Y=1100.247 Z=136.743) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3F166BFA46DDDB48841EF38D94D02548 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:4F60AE7C414668CF930BFCAF836C8D7C BaseClass:/Game/MyContent/MyBlueprints/Target.Target_C NativeClass:/Script/Engine.Actor Name:Target_C_UAID_FC3497A446686F2A02_1546969388 Label:Target2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1464.467 Y=2413.998 Z=19.315), Max=(X=1762.660 Y=2598.346 Z=586.068) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:517144BD473CF8F3BE15E189F5C66E4A BaseClass:/Game/MyContent/MyBlueprints/Hazards.Hazards_C NativeClass:/Script/Engine.Actor Name:Hazards_C_UAID_FC3497A44668702A02_1410739576 Label:Hazards4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1197.032 Y=75.388 Z=135.000), Max=(X=1434.759 Y=331.545 Z=136.743) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:52CB4FE04F566B70B8CC2EA1ED457E71 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:548B076D4A68456F35A46F873B3884EB BaseClass:/Game/MyContent/MyBlueprints/Target.Target_C NativeClass:/Script/Engine.Actor Name:Target_C_UAID_FC3497A44668312902_1986770415 Label:Target SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2751.416 Y=888.613 Z=-594.385), Max=(X=2967.185 Y=1798.193 Z=964.188) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:56C0D01B462753E37F362F98B058FBCE BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:63C1D4AF400D21B37853B2BBD9EEDBB7 BaseClass:/Game/MyContent/MyBlueprints/Hazards.Hazards_C NativeClass:/Script/Engine.Actor Name:Hazards_C_UAID_FC3497A44668702A02_1420593577 Label:Hazards5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1195.320 Y=712.542 Z=135.000), Max=(X=1442.068 Y=929.195 Z=136.743) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:646C0EAA47A35FF18F35098A70276463 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:6998705D48C069B9826FC3B3C080B5F9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC3497A446686F2A02_1610390389 Label:ihopethisworks_Booth SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-353.311 Y=-212.868 Z=-155.250), Max=(X=1719.132 Y=2111.109 Z=1262.585) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:71D7E5754691783AB652AD8C5F95747D BaseClass:/Game/MyContent/MyBlueprints/Hazards.Hazards_C NativeClass:/Script/Engine.Actor Name:Hazards_C_UAID_FC3497A44668702A02_1374133574 Label:Hazards2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1230.306 Y=320.171 Z=135.000), Max=(X=1385.903 Y=526.121 Z=136.743) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7F9EF4BE4EE6B533945CA5B1E38458F9 BaseClass:/Game/MyContent/MyBlueprints/Hazards.Hazards_C NativeClass:/Script/Engine.Actor Name:Hazards_C_UAID_FC3497A44668702A02_1404686575 Label:Hazards3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1216.683 Y=522.676 Z=135.000), Max=(X=1405.680 Y=752.516 Z=136.743) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7FF2C79B4CC711E677C69FBD789BA119 BaseClass:/Game/MyContent/MyBlueprints/Hazards.Hazards_C NativeClass:/Script/Engine.Actor Name:Hazards_C_UAID_FC3497A44668702A02_1425272579 Label:Hazards7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1207.407 Y=1079.538 Z=135.000), Max=(X=1437.247 Y=1268.535 Z=136.743) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8BDC676A45FC61108CB1589E5B172C51 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC3497A44668702A02_1279553571 Label:Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1248.000 Y=-2.500 Z=30.000), Max=(X=1348.000 Y=1922.500 Z=130.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:96E05A4F40AF9CC44727E988F8972E8D BaseClass:/Game/MyContent/MyBlueprints/AmmoPickup.AmmoPickup_C NativeClass:/Script/Engine.Actor Name:AmmoPickup_C_UAID_FC3497A446686F2A02_1868251391 Label:AmmoPickup2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=893.874 Y=1412.485 Z=-19.150), Max=(X=1018.892 Y=1501.677 Z=121.882) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:989DA89B45140486B8EF428CA59E6F3C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC3497A44668702A02_1294001572 Label:Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=25.500 Y=1888.000 Z=30.000), Max=(X=1250.500 Y=1988.000 Z=130.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9A62F1034D3B881BC86724A5C44E49F8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:A0CCAC3846BB679D6A50EE977FC44920 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=600.000 Y=800.000 Z=74.013), Max=(X=720.000 Y=920.000 Z=350.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A6557C3B41EDB6FEA61DF88E1AA16B53 BaseClass:/Game/MyContent/MyBlueprints/LevelController.LevelController_C NativeClass:/Script/Engine.Actor Name:LevelController_C_UAID_FC3497A44668702A02_1138536569 Label:LevelController SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=950.000 Y=630.000 Z=340.000), Max=(X=950.000 Y=630.000 Z=340.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A91B746F46C228FDEC289686DB217F6A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC3497A44668702A02_1326043573 Label:Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=26.500 Y=-29.000 Z=30.000), Max=(X=1251.500 Y=71.000 Z=130.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AAA17D1946E81B6137C3E9BA7278669B BaseClass:/Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle_C NativeClass:/Script/Engine.Actor Name:BP_Rifle_C_1 Label:BP_Pickup_Rifle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=898.000 Y=1224.000 Z=10.000), Max=(X=962.000 Y=1380.520 Z=122.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B219A5024312D800EB9E9B9B697BA55C BaseClass:/Game/MyContent/MyBlueprints/HealthPickup.HealthPickup_C NativeClass:/Script/Engine.Actor Name:HealthPickup_C_UAID_FC3497A44668372902_1640120474 Label:HealthPickup SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=127.370 Y=927.373 Z=17.311), Max=(X=197.849 Y=1005.950 Z=109.919) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C0FCD9D34E11AE219249F8AB5E11A150 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:C9DD04034CB12154D7E0439144827493 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC3497A44668702A02_1235094570 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-27.000 Y=-3.500 Z=30.000), Max=(X=73.000 Y=1921.500 Z=130.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D1B5848C4A8E9B1AE85D8EA488F213CA BaseClass:/Game/MyContent/MyBlueprints/AmmoPickup.AmmoPickup_C NativeClass:/Script/Engine.Actor Name:AmmoPickup_C_UAID_FC3497A44668342902_1412036944 Label:AmmoPickup SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1033.874 Y=1402.485 Z=-19.150), Max=(X=1158.892 Y=1491.677 Z=121.882) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EE27C75F40F0C8AB949DC7A5494FCF5F BaseClass:/Game/MyContent/MyBlueprints/Target.Target_C NativeClass:/Script/Engine.Actor Name:Target_C_UAID_FC3497A446686F2A02_1756079390 Label:Target3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1517.664 Y=336.514 Z=97.922), Max=(X=1584.380 Y=496.176 Z=381.299) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F27D088A4C61A22A606DA1B0F4A7BD40 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:FD8E1EA74481B24C5EF8C685374A559F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=60.000 Z=-50.000), Max=(X=1325.000 Y=1885.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:07A343DA438D76C54B5C3AB9F03935B9 BaseClass:/Game/MyContent/MyBlueprints/Hazards.Hazards_C NativeClass:/Script/Engine.Actor Name:Hazards_C_UAID_FC3497A44668352902_1764529121 Label:Hazards SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=613.159 Y=113.173 Z=-0.000), Max=(X=1223.346 Y=786.213 Z=6.837) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:1223247149A1F013B5C569ABB1CC2651 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:19B7C39B474EC8C1808B51A190B80994 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_0068EB5D041A742902_1590661208 Label:Booth_Booth SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1500.000 Y=1610.000 Z=0.000), Max=(X=1500.000 Y=1610.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:1F03ECC640A8270A2DFE3883539BE22A BaseClass:/Game/MyContent/MyBlueprints/AmmoPickup.AmmoPickup_C NativeClass:/Script/Engine.Actor Name:AmmoPickup_C_UAID_FC3497A446686F2A02_1870121392 Label:AmmoPickup3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=763.874 Y=1422.485 Z=-19.150), Max=(X=888.892 Y=1511.677 Z=121.882) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:2D770665499E1F48EE8FD8AF069681DD BaseClass:/Game/MyContent/MyBlueprints/Hazards.Hazards_C NativeClass:/Script/Engine.Actor Name:Hazards_C_UAID_FC3497A44668702A02_1422127578 Label:Hazards6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1214.465 Y=870.407 Z=135.000), Max=(X=1403.462 Y=1100.247 Z=136.743) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:3F166BFA46DDDB48841EF38D94D02548 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:4F60AE7C414668CF930BFCAF836C8D7C BaseClass:/Game/MyContent/MyBlueprints/Target.Target_C NativeClass:/Script/Engine.Actor Name:Target_C_UAID_FC3497A446686F2A02_1546969388 Label:Target2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1464.467 Y=2413.998 Z=19.315), Max=(X=1762.660 Y=2598.346 Z=586.068) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:517144BD473CF8F3BE15E189F5C66E4A BaseClass:/Game/MyContent/MyBlueprints/Hazards.Hazards_C NativeClass:/Script/Engine.Actor Name:Hazards_C_UAID_FC3497A44668702A02_1410739576 Label:Hazards4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1197.032 Y=75.388 Z=135.000), Max=(X=1434.759 Y=331.545 Z=136.743) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:52CB4FE04F566B70B8CC2EA1ED457E71 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:548B076D4A68456F35A46F873B3884EB BaseClass:/Game/MyContent/MyBlueprints/Target.Target_C NativeClass:/Script/Engine.Actor Name:Target_C_UAID_FC3497A44668312902_1986770415 Label:Target SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2751.416 Y=888.613 Z=-594.385), Max=(X=2967.185 Y=1798.193 Z=964.188) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:56C0D01B462753E37F362F98B058FBCE BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:63C1D4AF400D21B37853B2BBD9EEDBB7 BaseClass:/Game/MyContent/MyBlueprints/Hazards.Hazards_C NativeClass:/Script/Engine.Actor Name:Hazards_C_UAID_FC3497A44668702A02_1420593577 Label:Hazards5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1195.320 Y=712.542 Z=135.000), Max=(X=1442.068 Y=929.195 Z=136.743) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:646C0EAA47A35FF18F35098A70276463 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:6998705D48C069B9826FC3B3C080B5F9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC3497A446686F2A02_1610390389 Label:ihopethisworks_Booth SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-353.311 Y=-212.868 Z=-155.250), Max=(X=1719.132 Y=2111.109 Z=1262.585) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:71D7E5754691783AB652AD8C5F95747D BaseClass:/Game/MyContent/MyBlueprints/Hazards.Hazards_C NativeClass:/Script/Engine.Actor Name:Hazards_C_UAID_FC3497A44668702A02_1374133574 Label:Hazards2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1230.306 Y=320.171 Z=135.000), Max=(X=1385.903 Y=526.121 Z=136.743) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:7F9EF4BE4EE6B533945CA5B1E38458F9 BaseClass:/Game/MyContent/MyBlueprints/Hazards.Hazards_C NativeClass:/Script/Engine.Actor Name:Hazards_C_UAID_FC3497A44668702A02_1404686575 Label:Hazards3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1216.683 Y=522.676 Z=135.000), Max=(X=1405.680 Y=752.516 Z=136.743) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:7FF2C79B4CC711E677C69FBD789BA119 BaseClass:/Game/MyContent/MyBlueprints/Hazards.Hazards_C NativeClass:/Script/Engine.Actor Name:Hazards_C_UAID_FC3497A44668702A02_1425272579 Label:Hazards7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1207.407 Y=1079.538 Z=135.000), Max=(X=1437.247 Y=1268.535 Z=136.743) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:8BDC676A45FC61108CB1589E5B172C51 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC3497A44668702A02_1279553571 Label:Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1248.000 Y=-2.500 Z=30.000), Max=(X=1348.000 Y=1922.500 Z=130.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:96E05A4F40AF9CC44727E988F8972E8D BaseClass:/Game/MyContent/MyBlueprints/AmmoPickup.AmmoPickup_C NativeClass:/Script/Engine.Actor Name:AmmoPickup_C_UAID_FC3497A446686F2A02_1868251391 Label:AmmoPickup2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=893.874 Y=1412.485 Z=-19.150), Max=(X=1018.892 Y=1501.677 Z=121.882) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:989DA89B45140486B8EF428CA59E6F3C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC3497A44668702A02_1294001572 Label:Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=25.500 Y=1888.000 Z=30.000), Max=(X=1250.500 Y=1988.000 Z=130.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:9A62F1034D3B881BC86724A5C44E49F8 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:A0CCAC3846BB679D6A50EE977FC44920 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=600.000 Y=800.000 Z=74.013), Max=(X=720.000 Y=920.000 Z=350.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:A6557C3B41EDB6FEA61DF88E1AA16B53 BaseClass:/Game/MyContent/MyBlueprints/LevelController.LevelController_C NativeClass:/Script/Engine.Actor Name:LevelController_C_UAID_FC3497A44668702A02_1138536569 Label:LevelController SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=950.000 Y=630.000 Z=340.000), Max=(X=950.000 Y=630.000 Z=340.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:A91B746F46C228FDEC289686DB217F6A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC3497A44668702A02_1326043573 Label:Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=26.500 Y=-29.000 Z=30.000), Max=(X=1251.500 Y=71.000 Z=130.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:AAA17D1946E81B6137C3E9BA7278669B BaseClass:/Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle_C NativeClass:/Script/Engine.Actor Name:BP_Rifle_C_1 Label:BP_Pickup_Rifle SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=898.000 Y=1224.000 Z=10.000), Max=(X=962.000 Y=1380.520 Z=122.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:B219A5024312D800EB9E9B9B697BA55C BaseClass:/Game/MyContent/MyBlueprints/HealthPickup.HealthPickup_C NativeClass:/Script/Engine.Actor Name:HealthPickup_C_UAID_FC3497A44668372902_1640120474 Label:HealthPickup SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=127.370 Y=927.373 Z=17.311), Max=(X=197.849 Y=1005.950 Z=109.919) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:C0FCD9D34E11AE219249F8AB5E11A150 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:C9DD04034CB12154D7E0439144827493 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_FC3497A44668702A02_1235094570 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-27.000 Y=-3.500 Z=30.000), Max=(X=73.000 Y=1921.500 Z=130.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:D1B5848C4A8E9B1AE85D8EA488F213CA BaseClass:/Game/MyContent/MyBlueprints/AmmoPickup.AmmoPickup_C NativeClass:/Script/Engine.Actor Name:AmmoPickup_C_UAID_FC3497A44668342902_1412036944 Label:AmmoPickup SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1033.874 Y=1402.485 Z=-19.150), Max=(X=1158.892 Y=1491.677 Z=121.882) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:EE27C75F40F0C8AB949DC7A5494FCF5F BaseClass:/Game/MyContent/MyBlueprints/Target.Target_C NativeClass:/Script/Engine.Actor Name:Target_C_UAID_FC3497A446686F2A02_1756079390 Label:Target3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1517.664 Y=336.514 Z=97.922), Max=(X=1584.380 Y=496.176 Z=381.299) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:F27D088A4C61A22A606DA1B0F4A7BD40 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:FD8E1EA74481B24C5EF8C685374A559F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=60.000 Z=-50.000), Max=(X=1325.000 Y=1885.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/MyContent/MyLevels/Level_2
+----------------------------------------------------------------------------------------------------------------
+Level_2 - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Level_2 Persistent Level
+ |- Always loaded Actor Count: 32 
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.AmmoPickup_C_UAID_FC3497A44668342902_1412036944
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/C/BO/MZ1Z7WBW8BUS2HXXOC38W7
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.AmmoPickup_C_UAID_FC3497A446686F2A02_1868251391
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/4/MI/QBTTGNAX83A16AUMOK8CJT
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.AmmoPickup_C_UAID_FC3497A446686F2A02_1870121392
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/6/KD/8PMYFNKF1H8FP5ONPE8ZUK
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.BP_Rifle_C_1
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/0/LI/AANOW61YEWVJC4U77RS4YI
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.DirectionalLight_1
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/E/NF/AOEBXFY1TMTXZNGI2H426D
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/8/K4/0QPF9X8SKNZB8QO3Z8DG52
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.Hazards_C_UAID_FC3497A44668352902_1764529121
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/D/OX/JKZU9WDPIG9XKC1GNYWM3L
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.Hazards_C_UAID_FC3497A44668702A02_1374133574
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/1/5N/68IWRU77SN9JJMM9XOON55
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.Hazards_C_UAID_FC3497A44668702A02_1404686575
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/A/OU/GEB6U075C55J7DQX1UM65B
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.Hazards_C_UAID_FC3497A44668702A02_1410739576
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/8/NB/WDYAY2CG0LMM37H7SCXG38
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.Hazards_C_UAID_FC3497A44668702A02_1420593577
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/1/14/3UK3ISRZAKR9VL1XY2B9JP
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.Hazards_C_UAID_FC3497A44668702A02_1422127578
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/6/9E/GD52CYFB21UP7ODPPVAJLR
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.Hazards_C_UAID_FC3497A44668702A02_1425272579
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/A/38/6C32QZAT9GQJ4QFGO6FWW3
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.HealthPickup_C_UAID_FC3497A44668372902_1640120474
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/C/68/RUJ7AGMG6PRQJ1UXRFTDDG
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.LevelController_C_UAID_FC3497A44668702A02_1138536569
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/1/MA/V29XOYLV74P0PJ2HALPKPT
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/5/RL/2Q05BQ0HXHGYYWOV82ZS54
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.PostProcessVolume_0
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/B/IF/8SCM5G0GX14S050TVLP0YU
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.SkyAtmosphere_0
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/C/SU/S2V3F8785D0VP92K6GS0UO
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.SkyLight_0
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/C/KW/PBCC6PB9Z9F1LSBLX3FUJH
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.StaticMeshActor_0
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/7/R9/6PCGFL2XG4ZQ1X5RXBFJAZ
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.StaticMeshActor_UAID_0068EB5D041A742902_1590661208
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/3/7R/1HZ07L6DGA5C1XGE550ANF
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/7/IU/PN5JAIXG9NVZLM1K5KLFF2
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.StaticMeshActor_UAID_FC3497A446686F2A02_1610390389
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/8/W5/69C78W3AR6UT8AGA561RDQ
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.StaticMeshActor_UAID_FC3497A44668702A02_1235094570
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/9/WW/UDF6YFHSC30V7YF7J6JUDH
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.StaticMeshActor_UAID_FC3497A44668702A02_1279553571
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/1/6N/7Q0TAEKC0NYLCF6QOLTYAI
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.StaticMeshActor_UAID_FC3497A44668702A02_1294001572
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/8/NT/YBMVQNMQ377AROLFQVH042
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.StaticMeshActor_UAID_FC3497A44668702A02_1326043573
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/E/ST/06NW8HVVHQIMGXH53L2ZXS
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.Target_C_UAID_FC3497A44668312902_1986770415
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/5/U2/VURMFDL9FE7V6JL5XL8M9X
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.Target_C_UAID_FC3497A446686F2A02_1546969388
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/9/7Y/927299TQCLKSFWEV28V4GN
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.Target_C_UAID_FC3497A446686F2A02_1756079390
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/6/VF/BXP1TGOK4N208G2TDOQ8VI
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/6/HR/RL4ZZLVFWKNE7RCEI70G0P
+ |- Actor Path: /Game/MyContent/MyLevels/Level_2.Level_2:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/MyContent/MyLevels/Level_2/7/8G/UH72XSGVGH5W4TSLDPRF3R
+
+----------------------------------------------------------------------------------------------------------------
+Level_2 - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+
