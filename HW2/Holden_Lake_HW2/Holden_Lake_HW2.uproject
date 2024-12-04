@@ -33,7 +33,7 @@
 		},
 		{
 			"Name": "Cargo",
-			"Enabled": true
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
