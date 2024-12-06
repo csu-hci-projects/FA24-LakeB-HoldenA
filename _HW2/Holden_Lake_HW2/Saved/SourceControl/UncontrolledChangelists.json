@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/mini/Desktop/! College Stuff/!SeniorYear-SM1/CS310H/FA24-LakeB-HoldenA/_HW2/Holden_Lake_HW2/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"/Users/mini/Desktop/! College Stuff/!SeniorYear-SM1/CS310H/FA24-LakeB-HoldenA/_HW2/Holden_Lake_HW2/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/bodav/Desktop/IDEA 310/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/bodav/Desktop/IDEA 310/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/My_Content/My_Levels/Level_1.umap",
+				"C:/Users/bodav/Desktop/IDEA 310/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/bodav/Desktop/IDEA 310/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/bodav/Desktop/IDEA 310/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/My_Content/My_Models/gold.uasset",
+				"C:/Users/bodav/Desktop/IDEA 310/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/My_Content/My_Models/Grabbables_Brid.uasset",
+				"C:/Users/bodav/Desktop/IDEA 310/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/My_Content/My_Models/Grabbables_Robbert.uasset",
+				"C:/Users/bodav/Desktop/IDEA 310/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/My_Content/My_Models/Grabbables_Secret_Grabable.uasset",
+				"C:/Users/bodav/Desktop/IDEA 310/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/My_Content/My_Models/Grabbables_Skull.uasset",
+				"C:/Users/bodav/Desktop/IDEA 310/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/My_Content/My_Blueprints/BP_Target.uasset",
+				"C:/Users/bodav/Desktop/IDEA 310/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/My_Content/My_Models/target_Beam_frame.uasset",
+				"C:/Users/Brayden Lake/Desktop/{ College Stuff/Senior - S1/CS310H/Homeworks/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/My_Content/My_Inputs/IA_Reload_Left.uasset",
+				"C:/Users/Brayden Lake/Desktop/{ College Stuff/Senior - S1/CS310H/Homeworks/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/VRTemplate/Input/IMC_Weapon_Right.uasset",
+				"C:/Users/Brayden Lake/Desktop/{ College Stuff/Senior - S1/CS310H/Homeworks/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/My_Content/My_Inputs/IA_Reload_Right.uasset",
+				"C:/Users/Brayden Lake/Desktop/{ College Stuff/Senior - S1/CS310H/Homeworks/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/VRTemplate/Input/IMC_Weapon_Left.uasset",
+				"C:/Users/Brayden Lake/Desktop/{ College Stuff/Senior - S1/CS310H/Homeworks/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/VRTemplate/Blueprints/Pistol.uasset",
+				"C:/Users/Brayden Lake/Desktop/{ College Stuff/Senior - S1/CS310H/Homeworks/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Brayden Lake/Desktop/{ College Stuff/Senior - S1/CS310H/Homeworks/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/My_Content/My_Blueprints/BP_Target.uasset",
+				"C:/Users/Brayden Lake/Desktop/{ College Stuff/Senior - S1/CS310H/Homeworks/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/My_Content/My_Levels/WinLevel.umap",
+				"C:/Users/Brayden Lake/Desktop/{ College Stuff/Senior - S1/CS310H/Homeworks/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/My_Content/My_Blueprints/LevelController.uasset",
+				"C:/Users/Brayden Lake/Desktop/{ College Stuff/Senior - S1/CS310H/Homeworks/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/Brayden Lake/Desktop/{ College Stuff/Senior - S1/CS310H/Homeworks/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/My_Content/ReloadedDing.uasset",
+				"/Users/mini/Desktop/! College Stuff/!SeniorYear-SM1/CS310H/FA24-LakeB-HoldenA/HW2/Holden_Lake_HW2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+			]
+		}
+	]
+}
