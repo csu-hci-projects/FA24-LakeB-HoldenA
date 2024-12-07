@@ -4,8 +4,8 @@ This project was created for CS310H, Fall 2024.
 
 ## HW2
 **Required Links:**
- - Video explaining our project
- - Video overview of the blueprints
+ - [Video explaining our project](https://youtu.be/T6fiqh8qk58)
+ - [Video overview of the blueprints](https://youtu.be/PgmFMTYD9xA)
 
 This project was completed for Professor Ortega's CS310-H class at Colorado State University, Fall 2024.
 
